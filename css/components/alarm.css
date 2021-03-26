@@ -1,0 +1,13 @@
+.alarm {
+  background-color: none;
+  border-color: tomato;
+  border: 1px solid;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: tomato;
+  font-weight: 600;
+}
